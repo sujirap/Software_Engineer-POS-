@@ -1,1 +1,2 @@
-# Software_Engineer-POS-
+# Mypos
+project for SE
